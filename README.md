@@ -62,7 +62,7 @@ shopping-cart/
 
 ⚙️ Installation
  ⁃ Clone Repository
- git clone https://github.com/your-username/shopping-cart.git
+ git clone https://github.com/aathi-alt/shopping-cart.git
  cd shopping-cart
 
  ⁃ Install Frontend Dependencies
